@@ -1,0 +1,93 @@
+fecha_hora,familia,deuda,email,estado
+2025-09-25 11:57:19,ALONSO,"$ 1.308.075,00",taramarcafrancisco@gmail.com,ENVIADO
+2025-09-25 11:58:06,,,rominaambrogetti@gmail.com,ENVIADO
+2025-09-25 11:58:12,,,estefaniavaleriaartaza@gmail.com,ENVIADO
+2025-09-25 11:58:18,,,paratorevans@gmail.com,ENVIADO
+2025-09-25 11:58:19,,,paratorevans@gmail.com,EXCEPCION: main thread is not in main loop
+2025-09-25 11:58:54,ALONSO,,rominaambrogetti@gmail.com,ENVIADO
+2025-09-25 11:59:00,ARTAZA CAPODANO,,estefaniavaleriaartaza@gmail.com,ENVIADO
+2025-09-25 11:59:05,BARREIRO FRANCISCO,,paratorevans@gmail.com,ENVIADO
+2025-09-25 11:59:06,BARREIRO FRANCISCO,,paratorevans@gmail.com,EXCEPCION: main thread is not in main loop
+2025-09-25 11:59:34,ALONSO,"$ 1.308.075,00",rominaambrogetti@gmail.com,ENVIADO
+2025-09-25 11:59:40,ARTAZA CAPODANO,"$ 240.625,00",estefaniavaleriaartaza@gmail.com,ENVIADO
+2025-09-25 11:59:45,BARREIRO FRANCISCO,"$ 87.000,00",paratorevans@gmail.com,ENVIADO
+2025-09-25 11:59:51,BAUMANN PESANTE,"$ 781.745,50",Marcos.baumann@hotmail.com,ENVIADO
+2025-09-25 11:59:57,BERHONGARAY,"$ 638.875,00",maria_trucco@yahoo.com.ar,ENVIADO
+2025-09-25 12:00:03,BERTON SANSON,"$ 337.900,00",dberton@bardahl.com.ar,ENVIADO
+2025-09-25 12:00:09,BRANCA,"$ 1.420.968,10",cbranca61@gmail.com,ENVIADO
+2025-09-25 12:00:14,BRANDAZZA,"$ 832.925,00",brandazzahidalgo@hotmail.com,ENVIADO
+2025-09-25 12:00:20,BRUM SUELDO,"$ 747.799,00",sbrum@mg-group.com.ar,ENVIADO
+2025-09-25 12:00:26,CABRERA JATUF,"$ 307.375,00",Luchajatuf@gmail.com,ENVIADO
+2025-09-25 12:00:32,COLOMBATO ANTONIO,"$ 242.125,00",alejandroarielcolombato@gmail.com,ENVIADO
+2025-09-25 12:00:38,CORIA FRANCHESCA,"$ 448.542,50",autoservicioagus1@gmail.com,ENVIADO
+2025-09-25 12:00:43,DAVANZO BATTISTONI,"$ 536.250,00",merbattistoni@gmail.com,ENVIADO
+2025-09-25 12:00:49,FRANK,"$ 208.062,50",mariopampa@hotmail.com,ENVIADO
+2025-09-25 12:00:55,FURRIOL,"$ 1.027.593,58",agripina045@gmail.com,ENVIADO
+2025-09-25 12:01:01,GOMEZ FAUSTINA,"$ 798.325,00",ana_funes06@hotmail.com,ENVIADO
+2025-09-25 12:01:06,GOMEZ LOSADA OCTAVIO,"$ 686.087,50",mariaeugenialosada@hotmail.com,ENVIADO
+2025-09-25 12:01:12,GRAHN,"$ 209.625,00",solcarusodeco@gmail.com,ENVIADO
+2025-09-25 12:01:18,GRANGETTO PEYRAN,"$ 766.325,00",albertograngetto@hotmail.com,ENVIADO
+2025-09-25 12:01:24,GUTIERREZ BARBOZA,"$ 281.875,00",francogutierrez_95@hotmail.com,ENVIADO
+2025-09-25 12:01:29,IBARRA JUAN CRUZ,"$ 58.500,00",lujancaro@hotmail.com,ENVIADO
+2025-09-25 12:01:35,JUAREZ JATUF,"$ 441.950,00",noe@gmail.com,ENVIADO
+2025-09-25 12:01:41,KOPRIO,"$ 402.500,00",eltroperosrl@gmail.com,ENVIADO
+2025-09-25 12:01:47,KRONEMBERGER CAMILA,"$ 1.455.190,52",kedakliliana@gmail.com,ENVIADO
+2025-09-25 12:01:52,LAGOS ISASMENDI SANTIAGO,"$ 87.000,00",dbisasmendi@gmail.com,ENVIADO
+2025-09-25 12:01:58,LEGUIZAMON BENJAMIN,"$ 54.000,00",karymorenokary@gmail.com,ENVIADO
+2025-09-25 12:02:04,LOYOLA FELIPE,"$ 969.093,58",gusloyola@hotmail.com,ENVIADO
+2025-09-25 12:02:10,MAGE GUTIERREZ,"$ 389.675,00",lucas.mage@naldo.com.ar,ENVIADO
+2025-09-25 12:02:16,MALDONADO,"$ 1.123.357,41",damianmaldonado.1993@gmail.com,ENVIADO
+2025-09-25 12:02:21,MARIN LUZ,"$ 316.100,00",abelitoespinoza55@gmail.com,ENVIADO
+2025-09-25 12:02:27,MARINO BLANCO FRANCISCO,"$ 52.500,00",ezequiel.marino@upl-ltd.com,ENVIADO
+2025-09-25 12:02:33,MERLOS BRIGUES LORENZA FRANCHESCA,"$ 398.750,00",carinabriguez25@gmail.com,ENVIADO
+2025-09-25 12:02:39,MEZA JUAN,"$ 948.547,91",barbaraallegri@hotmail.com,ENVIADO
+2025-09-25 12:02:45,MIRANDA LUCI (Sala 5),"$ 87.000,00",marcos@rigeem.com.ar,ENVIADO
+2025-09-25 12:02:50,MOLINA,"$ 1.223.050,00",meriasoledad035@gmail.com,ENVIADO
+2025-09-25 12:02:56,MORENO FELIPE,"$ 223.450,00",mbelenitchart@gmail.com,ENVIADO
+2025-09-25 12:03:02,PASTORUTI ORTIZ,"$ 781.745,50",franco@pastorutti.com,ENVIADO
+2025-09-25 12:03:08,PIOMBI,"$ 425.100,00",lorena.decristofano@gmail.com,ENVIADO
+2025-09-25 12:03:14,PUENTE RIXON THOMAS BAUTISTA,"$ 268.125,00",omarmpuente@gmail.com,ENVIADO
+2025-09-25 12:03:20,RAMOS MACIEL  EZEQUIEL,"$ 675.172,58",claubmaciel18@gmail.com,ENVIADO
+2025-09-25 12:03:25,Ramos Robles Bautista,"$ 429.250,00",laboratoriorobles@hotmail.com,ENVIADO
+2025-09-25 12:03:31,SANCHEZ NIETO AGUSTIN,"$ 426.250,00",gabrielanieto@hotmail.com,ENVIADO
+2025-09-25 12:03:37,SANTANA,"$ 743.299,00",madereralospinosstr@gmail.com,ENVIADO
+2025-09-25 12:03:43,SCHLEGEL GAUNA MATILDA,"$ 1.855.564,73",curaco-curaco@hotmail.com,ENVIADO
+2025-09-25 12:03:48,SCHNEIDER GENARO,"$ 190.750,00",jessica_etcheverry@hotmail.com,ENVIADO
+2025-09-25 12:03:54,TEVEZ MARTINEZ PILAR,"$ 1.086.762,50",L_TEVES@HOTMAIL.COM,ENVIADO
+2025-09-25 12:04:00,ZIPENKO,"$ 450.250,00",noeliasomoza@hotmail.com,ENVIADO
+2025-09-25 14:51:54,ALONSO,"$ 1.308.075,00",taramarcafrancisco@gmail.com,ENVIADO
+2025-10-06 10:19:22,,,Marcos.baumann@hotmail.com,ENVIADO
+2025-10-06 10:19:28,,,dberton@bardahl.com.ar,ENVIADO
+2025-10-06 10:19:34,,,cbranca61@gmail.com,ENVIADO
+2025-10-06 10:19:40,,,sbrum@mg-group.com.ar,ENVIADO
+2025-10-06 10:19:41,,,sbrum@mg-group.com.ar,EXCEPCION: main thread is not in main loop
+2025-10-06 10:22:07,,,taramarcafrancisco@gmail.com,ENVIADO
+2025-10-06 10:32:47,ALONSO,"$ 1.308.075,00",taramarcafrancisco@gmail.com,ENVIADO
+2025-10-06 10:34:18,BAUMANN PESANTE,"$ 786.320,50",Marcos.baumann@hotmail.com,ENVIADO
+2025-10-06 10:34:24,BERTON SANSON,"$ 337.900,00",dberton@bardahl.com.ar,ENVIADO
+2025-10-06 10:34:30,BRANCA,"$ 1.429.233,10",cbranca61@gmail.com,ENVIADO
+2025-10-06 10:34:35,BRUM SUELDO,"$ 752.149,00",sbrum@mg-group.com.ar,ENVIADO
+2025-10-06 10:34:41,CABRERA JATUF,"$ 310.450,00",Luchajatuf@gmail.com,ENVIADO
+2025-10-06 10:34:47,FRANK,"$ 209.375,00",mariopampa@hotmail.com,ENVIADO
+2025-10-06 10:34:53,FURRIOL,"$ 1.030.518,58",agripina045@gmail.com,ENVIADO
+2025-10-06 10:34:58,GOMEZ LOSADA OCTAVIO,"$ 693.505,00",mariaeugenialosada@hotmail.com,ENVIADO
+2025-10-06 10:35:04,GRAHN,"$ 212.550,00",solcarusodeco@gmail.com,ENVIADO
+2025-10-06 10:35:10,GRANGETTO PEYRAN,"$ 774.590,00",albertograngetto@hotmail.com,ENVIADO
+2025-10-06 10:35:16,GUTIERREZ BARBOZA,"$ 284.950,00",francogutierrez_95@hotmail.com,ENVIADO
+2025-10-06 10:35:21,JUAREZ JATUF,"$ 446.840,00",noe@gmail.com,ENVIADO
+2025-10-06 10:35:27,KOPRIO,"$ 407.300,00",eltroperosrl@gmail.com,ENVIADO
+2025-10-06 10:35:33,KRONEMBERGER CAMILA,"$ 1.458.115,52",kedakliliana@gmail.com,ENVIADO
+2025-10-06 10:35:39,LOYOLA FELIPE,"$ 972.018,58",gusloyola@hotmail.com,ENVIADO
+2025-10-06 10:35:44,MAGE GUTIERREZ,"$ 389.675,00",lucas.mage@naldo.com.ar,ENVIADO
+2025-10-06 10:35:50,MALDONADO,"$ 91.500,00",damianmaldonado.1993@gmail.com,ENVIADO
+2025-10-06 10:35:56,MARIN LUZ,"$ 316.100,00",abelitoespinoza55@gmail.com,ENVIADO
+2025-10-06 10:36:02,MEZA JUAN,"$ 951.247,91",barbaraallegri@hotmail.com,ENVIADO
+2025-10-06 10:36:08,MOLINA,"$ 1.230.550,00",meriasoledad035@gmail.com,ENVIADO
+2025-10-06 10:36:13,MORENO FELIPE,"$ 223.450,00",mbelenitchart@gmail.com,ENVIADO
+2025-10-06 10:36:19,RAMOS MACIEL  EZEQUIEL,"$ 677.797,58",claubmaciel18@gmail.com,ENVIADO
+2025-10-06 10:36:25,Ramos Robles Bautista,"$ 433.900,00",laboratoriorobles@hotmail.com,ENVIADO
+2025-10-06 10:36:30,SANTANA,"$ 747.649,00",madereralospinosstr@gmail.com,ENVIADO
+2025-10-06 10:36:36,SCHLEGEL GAUNA MATILDA,"$ 1.862.742,23",curaco-curaco@hotmail.com,ENVIADO
+2025-10-06 10:36:42,SCHNEIDER GENARO,"$ 190.750,00",jessica_etcheverry@hotmail.com,ENVIADO
+2025-10-06 10:36:48,TEVEZ MARTINEZ PILAR,"$ 1.098.515,00",L_TEVES@HOTMAIL.COM,ENVIADO
+2025-10-06 10:36:53,FRANK,"$ 1.111,00",taramarcafrancisco@gmail.com,ENVIADO

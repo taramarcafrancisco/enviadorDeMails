@@ -1,35 +1,48 @@
-﻿FAMILIA;deuda;email
-ALBA REALE EMMA;332450;cecilia_reale@yahoo.com.ar
-ALEJO ANTONIO;1172082,45;maruayalamoreno@gmail.com
-ALONSO 4to sec;972018,58;rominaambrogetti@gmail.com
-AVELLANEDA BENJAMIN;212550;natimontesdeoca82@gmail.com
-BERTON SANSON;337900;dberton@bardahl.com.ar
-BOLSHAUSER PINOLINI BALTAZAR;577155;agustinb07@hotmail.com
-BRANCA;600590;cbranca61@gmail.com
-BRAVO  OJINAGA CIRO;337900;siloginaga@gmail.com
-BRUM SUELDO;316100;sbrum@mg-group.com.ar
-CABRERA JATUF;223450;Luchajatuf@gmail.com
-CALLAQUEO ZULUETA;616940;lic.mariagabrielazulueta@gmail.com
-COLOMBATO ANTONIO;190750;alejandroarielcolombato@gmail.com
-CORIA FRANCHESCA;190750;autoservicioagus1@gmail.com
-ELENO JUANA;309560;Floricaracoche@icloud.com
-FURRIOL;696760,16;agripina045@gmail.com
-GUTIERREZ M;728992;taramaracafrancisco@gmail.com
-ISAIAS;583150;ivanisaia89@gmail.com
-KRONEMBERGER CAMILA;1079387,71;kedakliliana@gmail.com
-LOPEZ EVA RENATA;209103,15;miiri_44@hotmail.com
-LOYOLA FELIPE;696760,16;gusloyola@hotmail.com
-MAGE GUTIERREZ;389675;lucas.mage@naldo.com.ar
-MALDONADO;660649;damianmaldonado.1993@gmail.com
-MARIN LUZ;316100;abelitoespinoza55@gmail.com
-MEZA JUAN;643163,22;barbaraallegri@hotmail.com
-MOLINA;545000;meriasoledad035@gmail.com
-MORENO FELIPE;223450;mbelenitchart@gmail.com
-MUNOZ JUAREZ GAEL (jardin );4510239,09;taramaracafrancisco@gmail.com
-PASTORUTI ORTIZ;332450;franco@pastorutti.com
-PESANTE BAUMANN;694820,5;Marcos.baumann@hotmail.com
-RAMOS MACIEL  EZEQUIEL;398667,5;claubmaciel18@gmail.com
-RIERA GARCIA LORENZO;190750;Florenciagarciasica@gmail.com
-SANTANA;316100;madereralospinosstr@gmail.com
-SCHLEGEL GAUNA MATILDA;1090070,85;curaco-curaco@hotmail.com
-SCHNEIDER GENARO;190750;jessica_etcheverry@hotmail.com
+familia;deuda;email
+ALONSO;$ 1.308.075,00;rominaambrogetti@gmail.com
+ARTAZA CAPODANO;$ 240.625,00;estefaniavaleriaartaza@gmail.com
+BARREIRO FRANCISCO;$ 87.000,00;paratorevans@gmail.com
+BAUMANN PESANTE;$ 781.745,50;Marcos.baumann@hotmail.com
+BERHONGARAY;$ 638.875,00;maria_trucco@yahoo.com.ar
+BERTON SANSON;$ 337.900,00;dberton@bardahl.com.ar
+BRANCA;$ 1.420.968,10;cbranca61@gmail.com
+BRANDAZZA;$ 832.925,00;brandazzahidalgo@hotmail.com
+BRUM SUELDO;$ 747.799,00;sbrum@mg-group.com.ar
+CABRERA JATUF;$ 307.375,00;Luchajatuf@gmail.com
+COLOMBATO ANTONIO;$ 242.125,00;alejandroarielcolombato@gmail.com
+CORIA FRANCHESCA;$ 448.542,50;autoservicioagus1@gmail.com
+DAVANZO BATTISTONI;$ 536.250,00;merbattistoni@gmail.com
+FRANK;$ 208.062,50;mariopampa@hotmail.com
+FURRIOL;$ 1.027.593,58;agripina045@gmail.com
+GOMEZ FAUSTINA;$ 798.325,00;ana_funes06@hotmail.com
+GOMEZ LOSADA OCTAVIO;$ 686.087,50;mariaeugenialosada@hotmail.com
+GRAHN;$ 209.625,00;solcarusodeco@gmail.com
+GRANGETTO PEYRAN;$ 766.325,00;albertograngetto@hotmail.com
+GUTIERREZ BARBOZA;$ 281.875,00;francogutierrez_95@hotmail.com
+IBARRA JUAN CRUZ;$ 58.500,00;lujancaro@hotmail.com
+JUAREZ JATUF;$ 441.950,00;noe@gmail.com
+KOPRIO;$ 402.500,00;eltroperosrl@gmail.com
+KRONEMBERGER CAMILA;$ 1.455.190,52;kedakliliana@gmail.com
+LAGOS ISASMENDI SANTIAGO;$ 87.000,00;dbisasmendi@gmail.com
+LEGUIZAMON BENJAMIN;$ 54.000,00;karymorenokary@gmail.com
+LOYOLA FELIPE;$ 969.093,58;gusloyola@hotmail.com
+MAGE GUTIERREZ;$ 389.675,00;lucas.mage@naldo.com.ar
+MALDONADO;$ 1.123.357,41;damianmaldonado.1993@gmail.com
+MARIN LUZ;$ 316.100,00;abelitoespinoza55@gmail.com
+MARINO BLANCO FRANCISCO;$ 52.500,00;ezequiel.marino@upl-ltd.com
+MERLOS BRIGUES LORENZA FRANCHESCA;$ 398.750,00;carinabriguez25@gmail.com
+MEZA JUAN;$ 948.547,91;barbaraallegri@hotmail.com
+MIRANDA LUCI (Sala 5);$ 87.000,00;marcos@rigeem.com.ar
+MOLINA;$ 1.223.050,00;meriasoledad035@gmail.com
+MORENO FELIPE;$ 223.450,00;mbelenitchart@gmail.com
+PASTORUTI ORTIZ;$ 781.745,50;franco@pastorutti.com
+PIOMBI;$ 425.100,00;lorena.decristofano@gmail.com
+PUENTE RIXON THOMAS BAUTISTA;$ 268.125,00;omarmpuente@gmail.com
+RAMOS MACIEL  EZEQUIEL;$ 675.172,58;claubmaciel18@gmail.com
+Ramos Robles Bautista;$ 429.250,00;laboratoriorobles@hotmail.com
+SANCHEZ NIETO AGUSTIN;$ 426.250,00;gabrielanieto@hotmail.com
+SANTANA;$ 743.299,00;madereralospinosstr@gmail.com
+SCHLEGEL GAUNA MATILDA;$ 1.855.564,73;curaco-curaco@hotmail.com
+SCHNEIDER GENARO;$ 190.750,00;jessica_etcheverry@hotmail.com
+TEVEZ MARTINEZ PILAR;$ 1.086.762,50;L_TEVES@HOTMAIL.COM
+ZIPENKO;$ 450.250,00;noeliasomoza@hotmail.com
